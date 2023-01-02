@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfcmahmoud&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="tfcmahmoud" /></p>
 
-<p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/tfcmahmoud/tfcmahmoud/master/profile-summary-card-output/2077/3-stats.svg" alt="tfcmahmoud" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tfcmahmoud&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false" alt="tfcmahmoud" /></p>
