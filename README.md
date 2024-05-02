@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm tfcmahmoud</h1>
-<h3 align="center">Hi, I'm Mahmoud. I'm a Full Stack Developer From Jordan, I'm an electrical engineer with 2 certificates, I also program some websites and discord bots. The main scripting language I use is Node JS (javascript)</h3>
+<h3 align="center">Entrepreneur, Full Stack Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/tfc_mahmoud" target="blank"><img src="https://img.shields.io/twitter/follow/tfc_mahmoud?logo=twitter&style=for-the-badge" alt="tfc_mahmoud" /></a> </p>
 
